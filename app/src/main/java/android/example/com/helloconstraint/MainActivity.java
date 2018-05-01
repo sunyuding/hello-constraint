@@ -1,6 +1,7 @@
-package android.example.com.hellotoast;
+package android.example.com.helloconstraint;
 
 import android.content.Context;
+import android.example.com.hellotoast.R;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
